@@ -13,13 +13,10 @@ Livewire é um framework full-stack para Laravel que torna a construção de int
 
 ---
 Veja toda a documentação: https://laravel-livewire.com/docs/quickstart
-See the docs for everything: https://laravel-livewire.com/docs/quickstart
 
-Todas as contribuições são bem-vindas! (mas, por favor, antes inicie uma discução para ter certeza que a PR - pull request - está garantida)
-All contributions are welcomed! (but please start a discussion to make sure the PR is warranted first)
+Todas as contribuições são bem-vindas! (mas, por favor, antes inicie uma discussão para ter certeza que a PR - pull request - está garantida)
 
 Ideias, perguntas e bugs são em [Discussões](https://github.com/livewire/livewire/discussions) ou [Servidor do Discord](https://discord.gg/livewire).
-Ideas, questions and bugs belong in [Discussions](https://github.com/livewire/livewire/discussions) or [Discord server](https://discord.gg/livewire).
 
 Contribua com a documentação aqui: https://github.com/livewire/docs
 
@@ -34,4 +31,4 @@ Contribua com a documentação aqui: https://github.com/livewire/docs
 
 Copyright © Caleb Porzio
 
-Laravel Livewire é um sistema de código aberto licenciado sob a [Licença MIT](LICENSE.md)
+Laravel Livewire é um software de código aberto licenciado sob a [Licença MIT](LICENSE.md)
