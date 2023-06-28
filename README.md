@@ -5,6 +5,11 @@
 [![License](https://img.shields.io/packagist/l/livewire/livewire)](https://packagist.org/packages/livewire/livewire)
 [![Tests](https://github.com/livewire/livewire/actions/workflows/test.yml/badge.svg)](https://github.com/livewire/livewire/actions/workflows/test.yml)
 
+### Other languages
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Audrey-Teles/livewire.pt-br/blob/master/README.pt-br.md)
+
+---
+
 Livewire is a full-stack framework for Laravel that makes building dynamic interfaces simple, without leaving the comfort of Laravel.
 
 ---
