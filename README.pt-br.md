@@ -6,7 +6,7 @@
 [![Testes](https://github.com/livewire/livewire/actions/workflows/test.yml/badge.svg)](https://github.com/livewire/livewire/actions/workflows/test.yml)
 
 ### Outros idiomas
-[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/Audrey-Teles/livewire.pt-br/blob/master/README.md)
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/AudreyTeles/livewire.pt-br/blob/master/README.md)
 ---
 
 Livewire é um framework full-stack para Laravel que torna a construção de interfaces simples, sem sair do conforto do Laravel.
