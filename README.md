@@ -6,7 +6,7 @@
 [![Tests](https://github.com/livewire/livewire/actions/workflows/test.yml/badge.svg)](https://github.com/livewire/livewire/actions/workflows/test.yml)
 
 ### Other languages
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/Audrey-Teles/livewire.pt-br/blob/master/README.pt-br.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/AudreyTeles/livewire.pt-br/blob/master/README.pt-br.md)
 
 ---
 
